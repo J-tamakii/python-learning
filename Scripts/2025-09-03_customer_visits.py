@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 bins = range(0, 16)
 
 # ファイルの読み込み込み
-customer_visits = pd.read_csv('Data/customer_visits (1).csv')
+customer_visits = pd.read_csv('Data/customer_visits.csv')
 
 
 
